@@ -359,6 +359,7 @@
     text-decoration: underline;
 }
 .modal {
+    font-family: "Montserrat", sans-serif;
     position: fixed;
     top: 0;
     left: 0;
@@ -372,7 +373,8 @@
 }
 
 .modal-content {
-    background: white;
+    color: white;
+    background: black;
     padding: 20px;
     width: 400px;
     border-radius: 10px;
@@ -380,6 +382,8 @@
 }
 
 .close {
+    background-color: red;
+    padding: 0px 10px;
     position: absolute;
     right: 15px;
     top: 10px;
