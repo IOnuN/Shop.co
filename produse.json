@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "nume": "Ovechikin",
+    "pret": 213.11,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.7,
+    "categorie": "T-Shirt",
+    "descriere": "Pulover moale, perfect pentru sezonul rece",
+    "button": "<i class=\"bi bi-star\"></i>"
+  },
+  {
+    "id": 2,
+    "nume": "Ovechikin",
+    "pret": 298.03,
+    "imagine": "../img/1.1.jpg",
+    "rating": 4.4,
+    "categorie": "T-Shirt",
+    "descriere": "Pulover moale, perfect pentru sezonul rece",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 3,
+    "nume": "Ovechikin",
+    "pret": 296.77,
+    "imagine": "../img/1.1.jpg",
+    "rating": 3.6,
+    "categorie": "T-Shirt",
+    "descriere": "Tricou cu imprimeu unic, pentru un look fresh",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 4,
+    "nume": "Ovechikin",
+    "pret": 276.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.0,
+    "categorie": "T-Shirt",
+    "descriere": "T-shirt cu logo de brand, ideal pentru o zi de vară",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 5,
+    "nume": "Ovechikin",
+    "pret": 247.94,
+    "imagine": "../img/1.1.jpg",
+    "rating": 4.7,
+    "categorie": "T-Shirt",
+    "descriere": "Pulover moale, perfect pentru sezonul rece",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 6,
+    "nume": "Ovechikin",
+    "pret": 232.15,
+    "imagine": "../img/2.2.jpg",
+    "rating": 3.9,
+    "categorie": "T-Shirt",
+    "descriere": "Tricou cu design minimalist, potrivit pentru orice ocazie",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 7,
+    "nume": "Ovechikin",
+    "pret": 289.56,
+    "imagine": "../img/1.1.jpg",
+    "rating": 4.8,
+    "categorie": "T-Shirt",
+    "descriere": "Tricou premium din bumbac organic",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 8,
+    "nume": "Ovechikin",
+    "pret": 245.33,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.2,
+    "categorie": "T-Shirt",
+    "descriere": "T-shirt cu imprimeu abstract, perfect pentru iubitorii de artă",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 9,
+    "nume": "Ovechikin",
+    "pret": 312.45,
+    "imagine": "../img/1.1.jpg",
+    "rating": 3.7,
+    "categorie": "T-Shirt",
+    "descriere": "T-shirt confortabil pentru zilele călduroase",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 10,
+    "nume": "Ovechikin",
+    "pret": 225.79,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.3,
+    "categorie": "T-Shirt",
+    "descriere": "Tricou sportiv cu guler înalt, perfect pentru activitățile fizice",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 11,
+    "nume": "Ovechikin",
+    "pret": 213.99,
+    "imagine": "../img/1.1.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou ușor și confortabil pentru vară",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 12,
+    "nume": "Ovechikin",
+    "pret": 267.89,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.6,
+    "categorie": "T-Shirt",
+    "descriere": "T-shirt elegant pentru ocazii speciale",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 13,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 14,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 15,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 16,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 17,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 18,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 19,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 20,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 21,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 22,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 23,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  },
+  {
+    "id": 24,
+    "nume": "Ovechikin",
+    "pret": 249.99,
+    "imagine": "../img/2.2.jpg",
+    "rating": 4.5,
+    "categorie": "T-Shirt",
+    "descriere": "Maiou pentru un adevărat fan al hocheiului",
+    "button": "<i class=\"bi bi-star\"></i>"
+
+  }
+]
