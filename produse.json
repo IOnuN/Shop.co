@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nume": "Ovechikin",
+    "nume": "Petrov",
     "pret": 213.11,
     "imagine": "../img/2.2.jpg",
     "rating": 4.7,
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "nume": "Ovechikin",
+    "nume": "Savel",
     "pret": 298.03,
     "imagine": "../img/1.1.jpg",
     "rating": 4.4,
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "nume": "Ovechikin",
+    "nume": "MIsa",
     "pret": 276.99,
     "imagine": "../img/2.2.jpg",
     "rating": 4.0,
@@ -85,12 +85,12 @@
   },
   {
     "id": 8,
-    "nume": "Ovechikin",
+    "nume": "SAVee",
     "pret": 245.33,
     "imagine": "../img/2.2.jpg",
     "rating": 4.2,
     "categorie": "T-Shirts",
-    "descriere": "T-shirt cu imprimeu abstract, perfect pentru iubitorii de artă",
+    "descriere": " cu imprimeu abstract, perfect pentru iubitorii de artă",
     "button": "<i class=\"bi bi-star\"></i>",
     "culoare": "blue",
     "stil": "Party"
@@ -109,7 +109,7 @@
   },
   {
     "id": 10,
-    "nume": "Ovechikin",
+    "nume": "MiHaela",
     "pret": 225.79,
     "imagine": "../img/2.2.jpg",
     "rating": 4.3,
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "nume": "Ovechikin",
+    "nume": "ANDRUSA",
     "pret": 213.99,
     "imagine": "../img/1.1.jpg",
     "rating": 4.5,
